@@ -1,4 +1,4 @@
-# Gimmick
+# Gimmick Lofi Room
 Unity Audio Visualizer
 
 	Laser: https://openprocessing.org/sketch/1156753
